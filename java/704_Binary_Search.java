@@ -1,3 +1,6 @@
+// Problem 704
+// https://leetcode.com/problems/binary-search/
+
 class Solution {
     public int search(int[] nums, int target) {
         int lo = 0;
