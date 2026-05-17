@@ -26,5 +26,7 @@ Feel free to explore, contribute, and suggest improvements!
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/) | [Python](https://github.com/egaze/leetcode-solutions/blob/main/python/1512_Number_of_Good_Pairs.py) |
 | 151 | [Reverse Words in A String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](https://github.com/egaze/leetcode-solutions/blob/main/python/151_reverse_words_in_a_string.py) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Python](https://github.com/egaze/leetcode-solutions/blob/main/python/2235_Add_Two_Integers.py) |
+| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/description/) | [Java] |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java] |
 
 
